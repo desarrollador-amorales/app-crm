@@ -294,5 +294,5 @@ const App: React.FC = () => {
     </AlgoliaSearchWrapper>
   );
 };
-
+//Export App
 export default App;
