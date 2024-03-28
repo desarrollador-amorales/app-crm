@@ -44,7 +44,7 @@ export const ContactCreatePage: React.FC<PropsWithChildren> = ({
         onCancel={() => {
           list("contacts", "replace");
         }}
-        okText="Save"
+        okText="Guardar"
         okButtonProps={{
           ...saveButtonProps,
         }}
